@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
-**lusamino/lusamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher at the Swiss Data Science Center (ETH Zürich). I work at the intersection of machine learning and domain science — building knowledge graphs, NLP pipelines, and generative models for problems in computational social science, biodiversity, engineering design, and robotic construction. Projects range from political performance measurement and medieval manuscript analysis to AI-augmented architectural design and turbocharger
+  optimization.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ---
+  - 🔭 I'm currently working on knowledge graphs for biodiversity and political data, generative AI for engineering design, robotic assembly with RL, and ML pipelines for medieval manuscript analysis
+  - 🌱 I'm currently learning more about world models and JEPA — preparing a talk
+  - 👯 I'm looking to collaborate on projects at the intersection of ML and domain science (NLP, KGs, generative models applied to real research problems)
+  - 🤔 I'm looking for help with scalable annotation pipelines and evaluation frameworks for structured information extraction
+  - 💬 Ask me about knowledge graph construction, NLP for political science, generative design, or using LLMs as research infrastructure
+  - 📫 How to reach me: luis.salamanca@sdsc.ethz.ch
+  - ⚡ Fun fact: I work on 13th-century manuscripts and turbocharger aerodynamics in the same week
 -->
